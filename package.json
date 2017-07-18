@@ -1,6 +1,6 @@
 {
   "name": "react-blur",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "description": "React component for creating blurred backgrounds.",
   "main": "dist/blur.js",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/javierbyte/react-blur.git"
+    "url": "https://github.com/mherodev/react-blur"
   },
   "author": "javierbyte",
   "license": "ISC",
