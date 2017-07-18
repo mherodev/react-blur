@@ -1,4 +1,4 @@
-# [React Blur](http://javierbyte.github.io/react-blur/)
+# [React Blur](github.com/mherodev/react-blur)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 React component for creating blurred backgrounds using canvas.
@@ -40,4 +40,8 @@ For a complete example see the code in the [demo branch](https://github.com/javi
 
 Please install [yarn](https://yarnpkg.com/en/) and use it to manage dependencies and the lockfile.
 
+### Thank You
+
 *Thanks to [Quasimodo](http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html) for the original stack blur algorithm.*
+
+*And thanks to [javierbyte](http://javierbyte.github.io/react-blur/), the original author of this repository.*
