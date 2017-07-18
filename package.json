@@ -1,5 +1,5 @@
 {
-  "name": "react-blur",
+  "name": "react-blur-image",
   "version": "1.0.0",
   "description": "React component for creating blurred backgrounds.",
   "main": "dist/blur.js",
